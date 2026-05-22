@@ -1,0 +1,2 @@
+# employee-performance-analysis-statistics-project
+Employee Performance Analysis project using Python, Statistics, Probability, Distribution Analysis, and Linear Algebra on a dataset of 4000 employee records. Includes data visualization, Gaussian distribution fitting, Q-Q plots, correlation heatmap, probability analysis, and statistical insights using Pandas, NumPy, Matplotlib, SciPy, and Seaborn.
